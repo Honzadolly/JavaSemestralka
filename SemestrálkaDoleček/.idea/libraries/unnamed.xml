@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="unnamed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/adventuraZaklad_2016/out/artifacts/unnamed/unnamed.jar!/" />
+      <root url="jar://$PROJECT_DIR$/adventuraZaklad_2016/out/artifacts/unnamed/Adventura.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
